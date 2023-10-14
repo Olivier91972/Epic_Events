@@ -295,6 +295,8 @@ Run the server with ```python manage.py runserver```.
 				<br>'event_date=""'
                 <br>'note=""'
 				<br>
+				<br>'contract=""'
+				<br>
 				<br>* Only admin or sales team users can access this endpoint.
 			</td>
 		</tr>
@@ -309,6 +311,8 @@ Run the server with ```python manage.py runserver```.
                 <br>'attendees=""'
 				<br>'event_date=""'
                 <br>'note=""'
+				<br>
+				<br>'contract=""'
 				<br>
 				<br>* Only admin or support team users can access this endpoint.
 			</td>
