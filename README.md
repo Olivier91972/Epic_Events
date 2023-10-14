@@ -58,6 +58,11 @@ Run ```python manage.py createsuperuser```.
 
 Run the server with ```python manage.py runserver```.
 
+## Postman
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://god.gw.postman.com/run-collection/28927944-18131fb6-f9db-4527-b1f0-a45406b475b4?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D28927944-18131fb6-f9db-4527-b1f0-a45406b475b4%26entityType%3Dcollection%26workspaceId%3Dbf80b1f5-9b46-42cd-b50a-b5e24abb4494)
+
+
 <h3>Documentation and usage details for API endpoints</h3>
 	<p>
 		Once the server is launched, read the following document before making your first requests to the API.<br>
