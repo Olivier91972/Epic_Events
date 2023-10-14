@@ -11,7 +11,7 @@ The RESTful API is implemented with a secured database built with Django ORM and
 
 Launch the console, go to the folder of your choice and clone this repository:
 ```
-git clone https://github.com/???/Epic_Events.git
+git clone https://github.com/Olivier91972/Epic_Events.git
 ```
 Go to the API folder and create a new virtual environment:
 ```
