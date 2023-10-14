@@ -56,5 +56,9 @@ class Event(models.Model):
 class EventStatus(models.Model):
     status = models.CharField(max_length=20)
 
+    class Meta:
+        verbose_name = 'Event status'
+        verbose_name_plural = 'Event status'
+
     def __str__(self):
         return f"{self.status}"
