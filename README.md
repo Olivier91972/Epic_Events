@@ -320,7 +320,7 @@ Run the server with ```python manage.py runserver```.
 			<td>Delete event</td>
 			<td>DELETE</td>
 			<td>http://127.0.0.1:8000/api/events/{event_id}/
-				<br>
+				<br> 
 				<br>* Only admin users can access this endpoint.
 			</td>
 		</tr>
